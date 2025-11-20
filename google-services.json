@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106457121116",
+    "project_id": "ovo-3bb1e",
+    "storage_bucket": "ovo-3bb1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106457121116:android:12b2708e700f9ae9fcc199",
+        "android_client_info": {
+          "package_name": "com.ovosolution.ovorideuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVKIP02SiAorM0X-krpqZ-F9d_mIhnSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
